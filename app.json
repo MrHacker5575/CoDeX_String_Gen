@@ -1,7 +1,7 @@
 {
-    "name": "String Gen Bot",
-    "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
-    "logo": "https://telegra.ph//file/56d8413e1ad00f08ab0fe.jpg",
+    "name": "⚡🇨Ⓞ𝗗𝜩🇽⚡",
+    "description": "",
+    "logo": "https://graph.org/file/8818c5e9470d2c6920a97.jpg",
     "keywords": [
         "python3",
         "telegram",
@@ -11,31 +11,31 @@
         "pyrogram",
         "telethon"
     ],
-    "repository": "https://github.com/itszshivam/StringGenBot",
+    "repository": "https://github.com/MrHacker5575/CoDeX_String_Gen",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "",
+        "value": "20310034",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "",
+        "value": "e0d2c11f4ba291ce596868e73df87519",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
-        "value": "",
+        "description": "",
+        "value": "6682836250:AAFapwr6wiXzY2Lj6C58M_sn1OW0tfw7PXo",
         "required": true
       },
       "OWNER_ID": {
-        "description": "Fill your user id here. (Must be integer)",
-        "value": "",
+        "description": "",
+        "value": "6123932615",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get this value from cloud.mongodb.com",
-        "value": "",
+        "description": "",
+        "value": "mongodb+srv://MrRaj:MrRaj5575@cluster0.flxajbk.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       }
     },
