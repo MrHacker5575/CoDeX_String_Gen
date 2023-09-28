@@ -1,12 +1,9 @@
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
-<!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Op_CODEX/count.svg" />
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -16,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph//file/56d8413e1ad00f08ab0fe.jpg">
+  <img src="https://graph.org/file/8818c5e9470d2c6920a97.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [˹ σρ sᴛꝛɪɴɢ ʙᴏᴛ˼](https://t.me/generatesession_bot)**_
