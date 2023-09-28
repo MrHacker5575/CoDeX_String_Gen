@@ -1,13 +1,5 @@
 
 
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Op_CODEX/count.svg" />
-</p>
-
-━━━━━━━━━━━━━━━━━━━━
-
 <h2 align="center">
     ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
 </h2>
